@@ -1,0 +1,551 @@
+# key|English|Bangla
+# ---------- App / common ----------
+appName|Tangail All in One|টাঙ্গাইল অল ইন ওয়ান
+appTagline|Everything Tangail, in one app|টাঙ্গাইলের সবকিছু, এক অ্যাপে
+demo|DEMO|ডেমো
+seeAll|See all|সব দেখুন
+cancel|Cancel|বাতিল
+confirm|Confirm|নিশ্চিত করুন
+save|Save|সংরক্ষণ
+submit|Submit|জমা দিন
+next|Next|পরবর্তী
+back|Back|পেছনে
+skip|Skip|এড়িয়ে যান
+done|Done|সম্পন্ন
+apply|Apply|প্রয়োগ
+reset|Reset|রিসেট
+close|Close|বন্ধ
+edit|Edit|সম্পাদনা
+delete|Delete|মুছুন
+retry|Retry|আবার চেষ্টা
+share|Share|শেয়ার
+call|Call|কল
+callNow|Call now|এখনই কল করুন
+sms|SMS|এসএমএস
+map|Map|মানচিত্র
+list|List|তালিকা
+grid|Grid|গ্রিড
+directions|Directions|দিকনির্দেশ
+openInMaps|Open in Maps|ম্যাপে খুলুন
+readMore|Read more|আরও পড়ুন
+showLess|Show less|কম দেখান
+viewDetails|View details|বিস্তারিত দেখুন
+search|Search|খুঁজুন
+filter|Filter|ফিল্টার
+sort|Sort|সাজান
+all|All|সব
+open|Open|খোলা
+closed|Closed|বন্ধ
+open24h|24h|২৪ ঘণ্টা
+verified|Verified|যাচাইকৃত
+available|Available|উপলব্ধ
+unavailable|Unavailable|অনুপলব্ধ
+fee|Fee|ফি
+hours|Hours|সময়সূচি
+address|Address|ঠিকানা
+phone|Phone|ফোন
+about|About|সম্পর্কে
+reviews|Reviews|রিভিউ
+rating|Rating|রেটিং
+gallery|Gallery|গ্যালারি
+upazila|Upazila|উপজেলা
+selectUpazila|Select upazila|উপজেলা নির্বাচন করুন
+allUpazilas|All upazilas|সব উপজেলা
+comingSoonDemo|This is a UI demo — no real action was taken.|এটি একটি ইউআই ডেমো — কোনো বাস্তব কাজ হয়নি।
+callingDemo|Calling {number}… (demo)|{number} নম্বরে কল হচ্ছে… (ডেমো)
+smsDemo|Opening SMS to {number}… (demo)|{number} নম্বরে এসএমএস খোলা হচ্ছে… (ডেমো)
+mapsDemo|Opening Maps… (demo)|ম্যাপ খোলা হচ্ছে… (ডেমো)
+sharedDemo|Share sheet opened (demo)|শেয়ার করা হয়েছে (ডেমো)
+callConfirmTitle|Call {name}?|{name}-কে কল করবেন?
+nothingHere|Nothing here yet|এখানে এখনো কিছু নেই
+noResults|No results found|কোনো ফলাফল পাওয়া যায়নি
+noResultsHint|Try a different keyword or filter.|অন্য কীওয়ার্ড বা ফিল্টার দিয়ে চেষ্টা করুন।
+errorTitle|Something went wrong|কিছু একটা সমস্যা হয়েছে
+errorBody|Please check your connection and try again.|সংযোগ পরীক্ষা করে আবার চেষ্টা করুন।
+offlineBanner|You're offline — showing saved data|আপনি অফলাইনে আছেন — সংরক্ষিত তথ্য দেখানো হচ্ছে
+backOnline|Back online|আবার অনলাইনে
+pullToRefresh|Updated just now|এইমাত্র হালনাগাদ হয়েছে
+experienceYears|{years} yrs exp.|{years} বছরের অভিজ্ঞতা
+km|{value} km|{value} কিমি
+minutesShort|{value} min|{value} মিনিট
+daysShort|{value} days|{value} দিন
+addedToSaved|Saved|সংরক্ষিত হয়েছে
+removedFromSaved|Removed from saved|সংরক্ষিত থেকে সরানো হয়েছে
+required|Required|আবশ্যক
+invalidPhone|Enter a valid 11-digit number|সঠিক ১১ সংখ্যার নম্বর দিন
+name|Name|নাম
+fullName|Full name|পূর্ণ নাম
+mobileNumber|Mobile number|মোবাইল নম্বর
+description|Description|বিবরণ
+date|Date|তারিখ
+time|Time|সময়
+pickDate|Pick a date|তারিখ বাছুন
+pickTime|Pick a time slot|সময় বাছুন
+category|Category|ক্যাটাগরি
+price|Price|মূল্য
+today|Today|আজ
+tomorrow|Tomorrow|আগামীকাল
+yesterday|Yesterday|গতকাল
+
+# ---------- Navigation ----------
+navHome|Home|হোম
+navExplore|Explore|এক্সপ্লোর
+navShop|Shop|শপ
+navSaved|Saved|সংরক্ষিত
+navProfile|Profile|প্রোফাইল
+
+# ---------- Onboarding / auth ----------
+onb1Title|All of Tangail in your pocket|পুরো টাঙ্গাইল আপনার পকেটে
+onb1Body|Hospitals, doctors, transport, news and more — one app for every daily need.|হাসপাতাল, ডাক্তার, যানবাহন, খবর — প্রতিদিনের সব প্রয়োজনে এক অ্যাপ।
+onb2Title|Buy & sell local|স্থানীয়ভাবে কিনুন ও বিক্রি করুন
+onb2Body|From Tangail tant sarees to Porabarir chomchom — shop from local sellers.|টাঙ্গাইলের তাঁতের শাড়ি থেকে পোড়াবাড়ির চমচম — স্থানীয় বিক্রেতাদের থেকে কিনুন।
+onb3Title|Help when it matters|প্রয়োজনের মুহূর্তে সাহায্য
+onb3Body|One-tap SOS, ambulances, blood donors and police — always ready.|এক ট্যাপে SOS, অ্যাম্বুলেন্স, রক্তদাতা ও পুলিশ — সবসময় প্রস্তুত।
+getStarted|Get started|শুরু করুন
+loginTitle|Welcome!|স্বাগতম!
+loginSubtitle|Enter your mobile number to continue|চালিয়ে যেতে মোবাইল নম্বর দিন
+sendOtp|Send OTP|ওটিপি পাঠান
+termsNote|By continuing you agree to our Terms & Privacy Policy|চালিয়ে যাওয়ার মাধ্যমে আপনি আমাদের শর্তাবলী ও গোপনীয়তা নীতিতে সম্মত হচ্ছেন
+continueAsGuest|Continue as guest|অতিথি হিসেবে চালিয়ে যান
+otpTitle|Verify your number|নম্বর যাচাই করুন
+otpSubtitle|Enter the 6-digit code sent to {phone}|{phone} নম্বরে পাঠানো ৬ সংখ্যার কোড দিন
+otpDemoHint|Demo: any 6 digits will work|ডেমো: যেকোনো ৬টি সংখ্যা চলবে
+verify|Verify|যাচাই করুন
+resendIn|Resend code in {seconds}s|{seconds} সেকেন্ডে আবার পাঠান
+resend|Resend code|আবার কোড পাঠান
+otpResent|A new code was sent (demo)|নতুন কোড পাঠানো হয়েছে (ডেমো)
+locationTitle|Where are you in Tangail?|টাঙ্গাইলের কোথায় আছেন?
+locationSubtitle|We'll show services near you|আপনার কাছের সেবাগুলো দেখাব
+useCurrentLocation|Use my current location|আমার বর্তমান অবস্থান ব্যবহার করুন
+detectingLocation|Detected: Tangail Sadar (demo)|শনাক্ত হয়েছে: টাঙ্গাইল সদর (ডেমো)
+continueLabel|Continue|চালিয়ে যান
+
+# ---------- Home ----------
+goodMorning|Good morning|শুভ সকাল
+goodAfternoon|Good afternoon|শুভ দুপুর
+goodEvening|Good evening|শুভ সন্ধ্যা
+goodNight|Good night|শুভ রাত্রি
+searchHint|Search services, products, places…|সেবা, পণ্য, স্থান খুঁজুন…
+emergency|Emergency|জরুরি
+categories|Categories|ক্যাটাগরি
+allCategories|All categories|সব ক্যাটাগরি
+nextPrayer|Next prayer|পরবর্তী নামাজ
+startsIn|starts in|শুরু হতে বাকি
+bazarToday|Today's bazar price|আজকের বাজারদর
+flashSale|Flash Sale|ফ্ল্যাশ সেল
+endsIn|Ends in|শেষ হবে
+madeInTangail|Made in Tangail|টাঙ্গাইলে তৈরি
+upcomingEvents|Upcoming events|আসন্ন অনুষ্ঠান
+latestNews|Latest news|সর্বশেষ খবর
+weatherTangail|Tangail|টাঙ্গাইল
+humidity|Humidity {value}%|আর্দ্রতা {value}%
+feelsLike|Feels {value}°|অনুভূত {value}°
+notifications|Notifications|নোটিফিকেশন
+markAllRead|Mark all read|সব পঠিত
+weatherForecast|5-day forecast (demo)|৫ দিনের পূর্বাভাস (ডেমো)
+
+# ---------- SOS ----------
+sos|SOS|SOS
+sosTitle|Emergency help|জরুরি সাহায্য
+sosSubtitle|Tap to call. Long-press SOS for 2s to call 999 directly.|কল করতে ট্যাপ করুন। সরাসরি ৯৯৯-এ কল করতে SOS ২ সেকেন্ড চেপে ধরুন।
+nationalEmergency|National Emergency|জাতীয় জরুরি সেবা
+ambulance|Ambulance|অ্যাম্বুলেন্স
+fireService|Fire Service|ফায়ার সার্ভিস
+police|Police|পুলিশ
+nearestHospital|Nearest hospital|নিকটতম হাসপাতাল
+calling999|Calling 999|৯৯৯-এ কল হচ্ছে
+callingIn|Calling in {seconds} seconds…|{seconds} সেকেন্ডের মধ্যে কল হবে…
+callCancelled|Emergency call cancelled|জরুরি কল বাতিল হয়েছে
+holdForSos|Keep holding…|চেপে ধরে রাখুন…
+
+# ---------- Search ----------
+recentSearches|Recent searches|সাম্প্রতিক অনুসন্ধান
+trendingSearches|Trending in Tangail|টাঙ্গাইলে ট্রেন্ডিং
+clearAll|Clear all|সব মুছুন
+voiceListening|Listening… (demo)|শুনছি… (ডেমো)
+voiceHint|Speak in Bangla or English|বাংলা বা ইংরেজিতে বলুন
+resultsFor|Results for "{query}"|"{query}" এর ফলাফল
+products|Products|পণ্য
+services|Services|সেবা
+places|Places|স্থান
+
+# ---------- Explore ----------
+exploreTitle|Explore Tangail|টাঙ্গাইল এক্সপ্লোর করুন
+exploreSubtitle|Every local service in one place|সব স্থানীয় সেবা এক জায়গায়
+secHealth|Health & Emergency|স্বাস্থ্য ও জরুরি
+secServices|Legal & Government|আইন ও সরকারি
+secTravel|Travel & Places|ভ্রমণ ও স্থান
+secDaily|Daily life|দৈনন্দিন জীবন
+secCommunity|Community|কমিউনিটি
+hospitals|Hospitals|হাসপাতাল
+doctors|Doctors|ডাক্তার
+bloodDonors|Blood Donors|রক্তদাতা
+govtOffices|Govt Offices|সরকারি অফিস
+lawyers|Lawyers|আইনজীবী
+transport|Transport|যানবাহন
+business|Business Directory|ব্যবসা নির্দেশিকা
+education|Education|শিক্ষা
+tourism|Tourist Places|দর্শনীয় স্থান
+news|News|খবর
+jobs|Jobs|চাকরি
+bazarPrice|Bazar Price|বাজারদর
+prayerTimes|Prayer Times|নামাজের সময়
+community|Community|কমিউনিটি
+events|Events|অনুষ্ঠান
+beds|{count} beds|{count} শয্যা
+emergencyAvailable|Emergency 24/7|জরুরি ২৪/৭
+departments|Departments|বিভাগসমূহ
+facilities|Facilities|সুবিধাসমূহ
+doctorsHere|Doctors at this hospital|এই হাসপাতালের ডাক্তার
+specialty|Specialty|বিশেষজ্ঞতা
+weeklySchedule|Weekly schedule|সাপ্তাহিক সময়সূচি
+consultFee|Consultation fee|পরামর্শ ফি
+serialCall|Call for serial|সিরিয়ালের জন্য কল
+chamber|Chamber|চেম্বার
+qualifications|Qualifications|যোগ্যতা
+ac|AC|এসি
+nonAc|Non-AC|নন-এসি
+icu|ICU|আইসিইউ
+bloodGroup|Blood group|রক্তের গ্রুপ
+lastDonated|Last donated {when}|শেষ দান {when}
+registerDonor|Register as donor|রক্তদাতা হিসেবে নিবন্ধন
+requestBlood|Request blood|রক্তের অনুরোধ
+bagsNeeded|Bags needed|কত ব্যাগ প্রয়োজন
+hospitalName|Hospital name|হাসপাতালের নাম
+patientProblem|Patient's condition|রোগীর অবস্থা
+neededBy|Needed by|কখন প্রয়োজন
+urgent|Urgent|জরুরি
+donorRegistered|You're registered as a donor. Thank you!|আপনি রক্তদাতা হিসেবে নিবন্ধিত হয়েছেন। ধন্যবাদ!
+bloodRequestSent|Request posted to nearby donors (demo)|কাছের রক্তদাতাদের কাছে অনুরোধ পাঠানো হয়েছে (ডেমো)
+availableToDonate|Available to donate|রক্তদানে প্রস্তুত
+practiceArea|Practice area|প্র্যাকটিস এরিয়া
+court|Court|আদালত
+chamberHours|Chamber hours|চেম্বারের সময়
+bookConsultation|Book consultation|পরামর্শ বুক করুন
+consultationBooked|Consultation requested for {when}|{when} পরামর্শের অনুরোধ পাঠানো হয়েছে
+busRoutes|Bus|বাস
+train|Train|ট্রেন
+cngRent|CNG & Rent-a-car|সিএনজি ও গাড়ি ভাড়া
+from|From|থেকে
+to|To|পর্যন্ত
+journeyDate|Journey date|যাত্রার তারিখ
+searchBuses|Search buses|বাস খুঁজুন
+busesFound|{count} buses found|{count}টি বাস পাওয়া গেছে
+counter|Counter|কাউন্টার
+seats|{count} seats left|{count}টি আসন বাকি
+bookSeat|Book seat|সিট বুক করুন
+departure|Departure|ছাড়ার সময়
+arrival|Arrival|পৌঁছানোর সময়
+offDay|Off day|বন্ধের দিন
+trainName|Train|ট্রেন
+perDay|per day|প্রতিদিন
+addBusiness|Add your business|আপনার ব্যবসা যোগ করুন
+stepBasic|Basic info|প্রাথমিক তথ্য
+stepContact|Contact & location|যোগাযোগ ও অবস্থান
+stepHours|Hours & photos|সময় ও ছবি
+stepReview|Review|পর্যালোচনা
+businessName|Business name|ব্যবসার নাম
+openingTime|Opening time|খোলার সময়
+closingTime|Closing time|বন্ধের সময়
+addPhotos|Add photos|ছবি যোগ করুন
+pendingApproval|Pending approval|অনুমোদনের অপেক্ষায়
+pendingApprovalBody|Thanks! Our team will verify your business within 24–48 hours. You'll get a notification once it's live.|ধন্যবাদ! আমাদের টিম ২৪–৪৮ ঘণ্টার মধ্যে আপনার ব্যবসা যাচাই করবে। লাইভ হলে আপনাকে জানানো হবে।
+backToHome|Back to home|হোমে ফিরুন
+writeReview|Write a review|রিভিউ লিখুন
+school|School|স্কুল
+college|College|কলেজ
+university|University|বিশ্ববিদ্যালয়
+coaching|Coaching|কোচিং
+examResults|Exam results|পরীক্ষার ফলাফল
+students|{count} students|{count} শিক্ষার্থী
+established|Est. {year}|প্রতিষ্ঠা {year}
+howToGo|How to go|কীভাবে যাবেন
+entryFee|Entry fee|প্রবেশ ফি
+openingHours|Opening hours|খোলার সময়
+latestJobs|Latest jobs|সর্বশেষ চাকরি
+salary|Salary|বেতন
+deadline|Deadline {date}|শেষ তারিখ {date}
+applyNow|Apply now|এখনই আবেদন করুন
+applicationSent|Application sent to {company} (demo)|{company}-এ আবেদন পাঠানো হয়েছে (ডেমো)
+coverNote|Short cover note|সংক্ষিপ্ত কভার নোট
+attachCv|Attach CV (PDF)|সিভি সংযুক্ত করুন (PDF)
+cvAttached|my_cv.pdf attached|my_cv.pdf সংযুক্ত
+jobType|Job type|চাকরির ধরন
+fullTime|Full-time|পূর্ণকালীন
+partTime|Part-time|খণ্ডকালীন
+item|Item|পণ্য
+unit|Unit|একক
+change|Change|পরিবর্তন
+last7Days|Last 7 days|গত ৭ দিন
+sehri|Sehri ends|সেহরির শেষ
+iftar|Iftar|ইফতার
+fajr|Fajr|ফজর
+dhuhr|Dhuhr|যোহর
+asr|Asr|আসর
+maghrib|Maghrib|মাগরিব
+isha|Isha|এশা
+sunrise|Sunrise|সূর্যোদয়
+noticeBoard|Notice board|নোটিশ বোর্ড
+lostFound|Lost & Found|হারানো ও প্রাপ্তি
+eventsCalendar|Events calendar|অনুষ্ঠান ক্যালেন্ডার
+lost|Lost|হারানো
+found|Found|পাওয়া গেছে
+postItem|Post an item|পোস্ট করুন
+postPublished|Your post is live (demo)|আপনার পোস্ট প্রকাশিত হয়েছে (ডেমো)
+addPhoto|Add photo|ছবি যোগ করুন
+title|Title|শিরোনাম
+location|Location|অবস্থান
+noEventsDay|No events on this day|এই দিনে কোনো অনুষ্ঠান নেই
+interested|Interested|আগ্রহী
+markedInterested|We'll remind you before the event|অনুষ্ঠানের আগে মনে করিয়ে দেব
+
+# ---------- Shop ----------
+shopSearchHint|Search sarees, sweets, electronics…|শাড়ি, মিষ্টি, ইলেকট্রনিক্স খুঁজুন…
+catSaree|Saree|শাড়ি
+catFood|Food & Sweets|খাবার ও মিষ্টি
+catFashion|Fashion|ফ্যাশন
+catElectronics|Electronics|ইলেকট্রনিক্স
+catHome|Home & Living|ঘর ও জীবনযাপন
+catAgri|Agriculture|কৃষি
+catCraft|Handicrafts|হস্তশিল্প
+catBooks|Books|বই
+topSellers|Top sellers|শীর্ষ বিক্রেতা
+recommended|Recommended for you|আপনার জন্য প্রস্তাবিত
+recentlyViewed|Recently viewed|সম্প্রতি দেখা
+sold|{count} sold|{count} বিক্রি
+off|-{value}%|-{value}%
+sortPopular|Popular|জনপ্রিয়
+sortNewest|Newest|নতুন
+sortPriceLow|Price: low to high|দাম: কম থেকে বেশি
+sortPriceHigh|Price: high to low|দাম: বেশি থেকে কম
+priceRange|Price range|দামের পরিসীমা
+minRating|Minimum rating|ন্যূনতম রেটিং
+deliveryType|Delivery type|ডেলিভারির ধরন
+homeDelivery|Home delivery|হোম ডেলিভারি
+localPickup|Local pickup|লোকাল পিকআপ
+inStockOnly|In stock only|শুধু স্টকে আছে
+showResults|Show {count} results|{count}টি ফলাফল দেখুন
+itemsCount|{count} items|{count}টি পণ্য
+addToCart|Add to cart|কার্টে যোগ করুন
+buyNow|Buy now|এখনই কিনুন
+addedToCart|Added to cart|কার্টে যোগ হয়েছে
+viewCart|View|দেখুন
+size|Size|সাইজ
+color|Color|রং
+quantity|Quantity|পরিমাণ
+inStock|In stock ({count} left)|স্টকে আছে ({count}টি বাকি)
+lowStock|Only {count} left!|মাত্র {count}টি বাকি!
+outOfStock|Out of stock|স্টক শেষ
+deliverTo|Deliver to {place}|{place}-এ ডেলিভারি
+deliveryFee|Delivery fee|ডেলিভারি চার্জ
+estDelivery|Est. {days} days|আনুমানিক {days} দিন
+pickupAvailable|Local pickup available — free|লোকাল পিকআপ সুবিধা — ফ্রি
+visitStore|Visit store|স্টোরে যান
+chat|Chat|চ্যাট
+followers|{count} followers|{count} ফলোয়ার
+follow|Follow|ফলো
+following|Following|ফলো করছেন
+specifications|Specifications|বৈশিষ্ট্য
+ratingsReviews|Ratings & reviews|রেটিং ও রিভিউ
+photoReviews|Photo reviews|ছবিসহ রিভিউ
+questions|Questions & answers|প্রশ্ন ও উত্তর
+askQuestion|Ask a question|প্রশ্ন করুন
+questionPosted|Question sent to seller (demo)|প্রশ্ন বিক্রেতার কাছে পাঠানো হয়েছে (ডেমো)
+similarProducts|Similar products|একই ধরনের পণ্য
+storeProducts|Products|পণ্যসমূহ
+storeInfo|Store info|স্টোরের তথ্য
+joined|Joined {date}|যোগদান {date}
+responseRate|Response rate|উত্তরের হার
+shipOnTime|Ships on time|সময়মতো পাঠায়
+typeMessage|Type a message…|বার্তা লিখুন…
+online|Online|অনলাইন
+myCart|My cart|আমার কার্ট
+selectAll|Select all|সব নির্বাচন
+emptyCart|Your cart is empty|আপনার কার্ট খালি
+emptyCartHint|Browse Made in Tangail products and add your favourites.|টাঙ্গাইলে তৈরি পণ্য দেখুন ও পছন্দের পণ্য যোগ করুন।
+startShopping|Start shopping|কেনাকাটা শুরু করুন
+voucherCode|Voucher code|ভাউচার কোড
+voucherHint|Try TANGAIL50|TANGAIL50 দিয়ে চেষ্টা করুন
+voucherApplied|Voucher applied: ৳50 off|ভাউচার প্রয়োগ হয়েছে: ৳৫০ ছাড়
+voucherInvalid|Invalid voucher code|ভুল ভাউচার কোড
+subtotal|Subtotal|সাবটোটাল
+discount|Discount|ছাড়
+voucher|Voucher|ভাউচার
+total|Total|মোট
+checkoutCount|Checkout ({count})|চেকআউট ({count})
+itemRemoved|Item removed|পণ্য সরানো হয়েছে
+undo|Undo|পূর্বাবস্থা
+stepAddress|Address|ঠিকানা
+stepDelivery|Delivery|ডেলিভারি
+stepPayment|Payment|পেমেন্ট
+addNewAddress|Add new address|নতুন ঠিকানা যোগ করুন
+cod|Cash on Delivery|ক্যাশ অন ডেলিভারি
+card|Credit / Debit card|ক্রেডিট / ডেবিট কার্ড
+placeOrder|Place order|অর্ডার করুন
+orderSummary|Order summary|অর্ডার সারাংশ
+orderPlaced|Order placed!|অর্ডার সম্পন্ন হয়েছে!
+orderPlacedBody|Thank you for shopping local. You'll get updates as your order moves.|স্থানীয় কেনাকাটার জন্য ধন্যবাদ। অর্ডারের আপডেট আপনাকে জানানো হবে।
+orderId|Order ID|অর্ডার আইডি
+trackOrder|Track order|অর্ডার ট্র্যাক করুন
+continueShopping|Continue shopping|কেনাকাটা চালিয়ে যান
+myOrders|My orders|আমার অর্ডার
+toPay|To Pay|পরিশোধ বাকি
+toShip|To Ship|পাঠানো বাকি
+toReceive|To Receive|গ্রহণ বাকি
+completed|Completed|সম্পন্ন
+returns|Returns|ফেরত
+orderDetail|Order details|অর্ডারের বিস্তারিত
+cancelOrder|Cancel order|অর্ডার বাতিল
+cancelReason|Why are you cancelling?|কেন বাতিল করছেন?
+orderCancelled|Order cancelled|অর্ডার বাতিল হয়েছে
+returnRequest|Return request|ফেরতের অনুরোধ
+returnSubmitted|Return request submitted|ফেরতের অনুরোধ জমা হয়েছে
+reviewSubmitted|Thanks for your review!|রিভিউয়ের জন্য ধন্যবাদ!
+payNow|Pay now|এখনই পরিশোধ
+confirmReceived|Confirm received|প্রাপ্তি নিশ্চিত করুন
+vouchersWallet|Vouchers & coins|ভাউচার ও কয়েন
+coins|Coins|কয়েন
+coinsBalance|Coin balance|কয়েন ব্যালেন্স
+myVouchers|My vouchers|আমার ভাউচার
+collect|Collect|সংগ্রহ
+collected|Collected|সংগৃহীত
+useNow|Use now|ব্যবহার করুন
+dailyCheckIn|Daily check-in|দৈনিক চেক-ইন
+checkedIn|+10 coins collected!|+১০ কয়েন যোগ হয়েছে!
+minSpend|Min. spend ৳{amount}|সর্বনিম্ন ক্রয় ৳{amount}
+validTill|Valid till {date}|{date} পর্যন্ত বৈধ
+wishlist|Wishlist|উইশলিস্ট
+outOf5|out of 5|৫ এর মধ্যে
+
+# ---------- Seller ----------
+becomeSeller|Become a seller|বিক্রেতা হোন
+sellerCenter|Seller center|সেলার সেন্টার
+sellerOnbTitle|Open your shop|আপনার দোকান খুলুন
+storeInfoStep|Store info|স্টোরের তথ্য
+nidStep|NID verification|এনআইডি যাচাই
+payoutStep|Payment account|পেমেন্ট অ্যাকাউন্ট
+storeName|Store name|স্টোরের নাম
+storeDescription|About your store|আপনার স্টোর সম্পর্কে
+nidFront|NID front side|এনআইডির সামনের দিক
+nidBack|NID back side|এনআইডির পেছনের দিক
+tapToUpload|Tap to upload|আপলোড করতে ট্যাপ করুন
+uploaded|Uploaded|আপলোড হয়েছে
+accountNumber|Account number|অ্যাকাউন্ট নম্বর
+accountType|Account type|অ্যাকাউন্টের ধরন
+sellerReady|Your shop is ready!|আপনার দোকান প্রস্তুত!
+dashboard|Dashboard|ড্যাশবোর্ড
+todaySales|Today's sales|আজকের বিক্রি
+orders|Orders|অর্ডার
+salesThisWeek|Sales this week|এই সপ্তাহের বিক্রি
+recentOrders|Recent orders|সাম্প্রতিক অর্ডার
+myProducts|My products|আমার পণ্য
+addProduct|Add product|পণ্য যোগ করুন
+editProduct|Edit product|পণ্য সম্পাদনা
+productName|Product name|পণ্যের নাম
+variants|Variants|ভ্যারিয়েন্ট
+addVariant|Add variant|ভ্যারিয়েন্ট যোগ
+discountPrice|Discount price|ছাড়ের দাম
+stock|Stock|স্টক
+deliveryOptions|Delivery options|ডেলিভারি অপশন
+preview|Preview|প্রিভিউ
+publish|Publish|প্রকাশ করুন
+published|Published|প্রকাশিত
+draft|Draft|খসড়া
+productSaved|Product saved|পণ্য সংরক্ষিত হয়েছে
+productDeleted|Product deleted|পণ্য মুছে ফেলা হয়েছে
+deleteProductQ|Delete this product?|এই পণ্যটি মুছবেন?
+photosCount|Photos ({count}/6)|ছবি ({count}/৬)
+manageOrders|Manage orders|অর্ডার ব্যবস্থাপনা
+changeStatus|Change status|স্ট্যাটাস পরিবর্তন
+statusUpdated|Status updated to {status}|স্ট্যাটাস {status} করা হয়েছে
+pending|Pending|অপেক্ষমাণ
+processing|Processing|প্রক্রিয়াধীন
+shipped|Shipped|পাঠানো হয়েছে
+delivered|Delivered|ডেলিভারি হয়েছে
+cancelled|Cancelled|বাতিল
+storeSettings|Store settings|স্টোর সেটিংস
+payouts|Payouts|পেআউট
+availableBalance|Available balance|উপলব্ধ ব্যালেন্স
+withdraw|Withdraw|উত্তোলন
+withdrawRequested|Withdrawal requested (demo)|উত্তোলনের অনুরোধ পাঠানো হয়েছে (ডেমো)
+payoutHistory|Payout history|পেআউট ইতিহাস
+vacationMode|Vacation mode|ছুটির মোড
+autoReply|Chat auto-reply|চ্যাট অটো-রিপ্লাই
+
+# ---------- Saved / profile / settings ----------
+savedTitle|Saved|সংরক্ষিত
+emptySaved|Nothing saved yet|এখনো কিছু সংরক্ষণ করা হয়নি
+emptySavedHint|Tap the heart or bookmark icon to save items here.|এখানে সংরক্ষণ করতে হার্ট বা বুকমার্ক আইকনে ট্যাপ করুন।
+businesses|Businesses|ব্যবসা
+editProfile|Edit profile|প্রোফাইল সম্পাদনা
+myListings|My listings|আমার লিস্টিং
+donorProfile|Blood donor profile|রক্তদাতা প্রোফাইল
+addresses|Addresses|ঠিকানা
+settings|Settings|সেটিংস
+language|Language|ভাষা
+theme|Theme|থিম
+themeLight|Light|লাইট
+themeDark|Dark|ডার্ক
+themeSystem|System|সিস্টেম
+reportWrongInfo|Report wrong info|ভুল তথ্য জানান
+helpSupport|Help & support|সাহায্য ও সহায়তা
+aboutApp|About|অ্যাপ সম্পর্কে
+logout|Logout|লগআউট
+logoutConfirm|Are you sure you want to log out?|আপনি কি লগআউট করতে চান?
+groupShopping|Shopping|কেনাকাটা
+groupCommunity|Community|কমিউনিটি
+groupPreferences|Preferences|পছন্দসমূহ
+groupSupport|Support|সহায়তা
+offlineDemo|Simulate offline|অফলাইন সিমুলেট করুন
+offlineDemoHint|Shows the offline banner (UI demo)|অফলাইন ব্যানার দেখায় (ইউআই ডেমো)
+pushNotifications|Push notifications|পুশ নোটিফিকেশন
+orderUpdates|Order updates|অর্ডার আপডেট
+offersPromos|Offers & promotions|অফার ও প্রমোশন
+emergencyAlerts|Emergency alerts|জরুরি সতর্কতা
+bloodRequests|Blood requests near me|কাছের রক্তের অনুরোধ
+reportSent|Report sent. Thank you for keeping info accurate!|রিপোর্ট পাঠানো হয়েছে। তথ্য সঠিক রাখতে সাহায্য করার জন্য ধন্যবাদ!
+whatsWrong|What's wrong?|কী ভুল আছে?
+whichListing|Which listing?|কোন লিস্টিং?
+details|Details|বিস্তারিত
+faq|Frequently asked questions|সাধারণ প্রশ্ন
+contactUs|Contact us|যোগাযোগ করুন
+liveChat|Live chat|লাইভ চ্যাট
+version|Version {value}|সংস্করণ {value}
+aboutBody|Tangail All in One is a local super app concept for Tangail district — bringing emergency services, local businesses, transport and a community marketplace together. This build is a UI demo with sample data.|টাঙ্গাইল অল ইন ওয়ান টাঙ্গাইল জেলার জন্য একটি স্থানীয় সুপার অ্যাপ ধারণা — জরুরি সেবা, স্থানীয় ব্যবসা, যানবাহন ও কমিউনিটি মার্কেটপ্লেস একসাথে। এটি নমুনা তথ্যসহ একটি ইউআই ডেমো।
+defaultAddress|Default|ডিফল্ট
+setDefault|Set as default|ডিফল্ট করুন
+addressSaved|Address saved|ঠিকানা সংরক্ষিত হয়েছে
+addressLine|House, road, area|বাড়ি, রাস্তা, এলাকা
+label|Label|লেবেল
+donorVisible|Show me in donor search|রক্তদাতা অনুসন্ধানে আমাকে দেখান
+donations|{count} donations|{count} বার রক্তদান
+nextEligible|Next eligible: {date}|পরবর্তী যোগ্য তারিখ: {date}
+memberSince|Member since {year}|সদস্য {year} থেকে
+
+# ---------- Added during build ----------
+cart|Cart|কার্ট
+checkout|Checkout|চেকআউট
+nidNumber|NID number|এনআইডি নম্বর
+settingsSaved|Settings saved|সেটিংস সংরক্ষিত হয়েছে
+amount|Amount|পরিমাণ
+govt|Government|সরকারি
+privateLabel|Private|বেসরকারি
+cases|Cases|মামলা
+describeMatter|Briefly describe your matter|সংক্ষেপে বিষয়টি লিখুন
+popularRoutes|Popular routes|জনপ্রিয় রুট
+seatCount|Seats|আসন সংখ্যা
+scheduleNote|Tangail Railway Station · times may change (demo)|টাঙ্গাইল রেলওয়ে স্টেশন · সময়সূচি পরিবর্তন হতে পারে (ডেমো)
+satThu|Sat – Thu|শনি – বৃহঃ
+friday|Friday|শুক্র
+bazarSource|Tangail Park Bazar (demo)|টাঙ্গাইল পার্ক বাজার (ডেমো)
+prayerSource|Approximate times per Islamic Foundation (demo)|ইসলামিক ফাউন্ডেশন অনুযায়ী আনুমানিক সময় (ডেমো)
+deadlineLabel|Deadline|শেষ তারিখ
+lastDonationDate|Last donation date|শেষ রক্তদানের তারিখ
+experience|Experience|অভিজ্ঞতা
+replayOnboarding|Replay onboarding|অনবোর্ডিং আবার দেখুন
+donationHistory|Donation history|রক্তদানের ইতিহাস
+terms|Terms of service|শর্তাবলী
+privacy|Privacy policy|গোপনীয়তা নীতি
+licences|Open-source licences|ওপেন সোর্স লাইসেন্স
+email|Email|ইমেইল
+madeWithLove|Made with ♥ for Tangail|টাঙ্গাইলের জন্য ♥ দিয়ে তৈরি

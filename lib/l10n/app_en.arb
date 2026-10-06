@@ -1,0 +1,819 @@
+{
+  "@@locale": "en",
+  "appName": "Tangail All in One",
+  "appTagline": "Everything Tangail, in one app",
+  "demo": "DEMO",
+  "seeAll": "See all",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "save": "Save",
+  "submit": "Submit",
+  "next": "Next",
+  "back": "Back",
+  "skip": "Skip",
+  "done": "Done",
+  "apply": "Apply",
+  "reset": "Reset",
+  "close": "Close",
+  "edit": "Edit",
+  "delete": "Delete",
+  "retry": "Retry",
+  "share": "Share",
+  "call": "Call",
+  "callNow": "Call now",
+  "sms": "SMS",
+  "map": "Map",
+  "list": "List",
+  "grid": "Grid",
+  "directions": "Directions",
+  "openInMaps": "Open in Maps",
+  "readMore": "Read more",
+  "showLess": "Show less",
+  "viewDetails": "View details",
+  "search": "Search",
+  "filter": "Filter",
+  "sort": "Sort",
+  "all": "All",
+  "open": "Open",
+  "closed": "Closed",
+  "open24h": "24h",
+  "verified": "Verified",
+  "available": "Available",
+  "unavailable": "Unavailable",
+  "fee": "Fee",
+  "hours": "Hours",
+  "address": "Address",
+  "phone": "Phone",
+  "about": "About",
+  "reviews": "Reviews",
+  "rating": "Rating",
+  "gallery": "Gallery",
+  "upazila": "Upazila",
+  "selectUpazila": "Select upazila",
+  "allUpazilas": "All upazilas",
+  "comingSoonDemo": "This is a UI demo — no real action was taken.",
+  "callingDemo": "Calling {number}… (demo)",
+  "@callingDemo": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "smsDemo": "Opening SMS to {number}… (demo)",
+  "@smsDemo": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "mapsDemo": "Opening Maps… (demo)",
+  "sharedDemo": "Share sheet opened (demo)",
+  "callConfirmTitle": "Call {name}?",
+  "@callConfirmTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "nothingHere": "Nothing here yet",
+  "noResults": "No results found",
+  "noResultsHint": "Try a different keyword or filter.",
+  "errorTitle": "Something went wrong",
+  "errorBody": "Please check your connection and try again.",
+  "offlineBanner": "You're offline — showing saved data",
+  "backOnline": "Back online",
+  "pullToRefresh": "Updated just now",
+  "experienceYears": "{years} yrs exp.",
+  "@experienceYears": {
+    "placeholders": {
+      "years": {
+        "type": "String"
+      }
+    }
+  },
+  "km": "{value} km",
+  "@km": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesShort": "{value} min",
+  "@minutesShort": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "daysShort": "{value} days",
+  "@daysShort": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "addedToSaved": "Saved",
+  "removedFromSaved": "Removed from saved",
+  "required": "Required",
+  "invalidPhone": "Enter a valid 11-digit number",
+  "name": "Name",
+  "fullName": "Full name",
+  "mobileNumber": "Mobile number",
+  "description": "Description",
+  "date": "Date",
+  "time": "Time",
+  "pickDate": "Pick a date",
+  "pickTime": "Pick a time slot",
+  "category": "Category",
+  "price": "Price",
+  "today": "Today",
+  "tomorrow": "Tomorrow",
+  "yesterday": "Yesterday",
+  "navHome": "Home",
+  "navExplore": "Explore",
+  "navShop": "Shop",
+  "navSaved": "Saved",
+  "navProfile": "Profile",
+  "onb1Title": "All of Tangail in your pocket",
+  "onb1Body": "Hospitals, doctors, transport, news and more — one app for every daily need.",
+  "onb2Title": "Buy & sell local",
+  "onb2Body": "From Tangail tant sarees to Porabarir chomchom — shop from local sellers.",
+  "onb3Title": "Help when it matters",
+  "onb3Body": "One-tap SOS, ambulances, blood donors and police — always ready.",
+  "getStarted": "Get started",
+  "loginTitle": "Welcome!",
+  "loginSubtitle": "Enter your mobile number to continue",
+  "sendOtp": "Send OTP",
+  "termsNote": "By continuing you agree to our Terms & Privacy Policy",
+  "continueAsGuest": "Continue as guest",
+  "otpTitle": "Verify your number",
+  "otpSubtitle": "Enter the 6-digit code sent to {phone}",
+  "@otpSubtitle": {
+    "placeholders": {
+      "phone": {
+        "type": "String"
+      }
+    }
+  },
+  "otpDemoHint": "Demo: any 6 digits will work",
+  "verify": "Verify",
+  "resendIn": "Resend code in {seconds}s",
+  "@resendIn": {
+    "placeholders": {
+      "seconds": {
+        "type": "String"
+      }
+    }
+  },
+  "resend": "Resend code",
+  "otpResent": "A new code was sent (demo)",
+  "locationTitle": "Where are you in Tangail?",
+  "locationSubtitle": "We'll show services near you",
+  "useCurrentLocation": "Use my current location",
+  "detectingLocation": "Detected: Tangail Sadar (demo)",
+  "continueLabel": "Continue",
+  "goodMorning": "Good morning",
+  "goodAfternoon": "Good afternoon",
+  "goodEvening": "Good evening",
+  "goodNight": "Good night",
+  "searchHint": "Search services, products, places…",
+  "emergency": "Emergency",
+  "categories": "Categories",
+  "allCategories": "All categories",
+  "nextPrayer": "Next prayer",
+  "startsIn": "starts in",
+  "bazarToday": "Today's bazar price",
+  "flashSale": "Flash Sale",
+  "endsIn": "Ends in",
+  "madeInTangail": "Made in Tangail",
+  "upcomingEvents": "Upcoming events",
+  "latestNews": "Latest news",
+  "weatherTangail": "Tangail",
+  "humidity": "Humidity {value}%",
+  "@humidity": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "feelsLike": "Feels {value}°",
+  "@feelsLike": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "notifications": "Notifications",
+  "markAllRead": "Mark all read",
+  "weatherForecast": "5-day forecast (demo)",
+  "sos": "SOS",
+  "sosTitle": "Emergency help",
+  "sosSubtitle": "Tap to call. Long-press SOS for 2s to call 999 directly.",
+  "nationalEmergency": "National Emergency",
+  "ambulance": "Ambulance",
+  "fireService": "Fire Service",
+  "police": "Police",
+  "nearestHospital": "Nearest hospital",
+  "calling999": "Calling 999",
+  "callingIn": "Calling in {seconds} seconds…",
+  "@callingIn": {
+    "placeholders": {
+      "seconds": {
+        "type": "String"
+      }
+    }
+  },
+  "callCancelled": "Emergency call cancelled",
+  "holdForSos": "Keep holding…",
+  "recentSearches": "Recent searches",
+  "trendingSearches": "Trending in Tangail",
+  "clearAll": "Clear all",
+  "voiceListening": "Listening… (demo)",
+  "voiceHint": "Speak in Bangla or English",
+  "resultsFor": "Results for \"{query}\"",
+  "@resultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "products": "Products",
+  "services": "Services",
+  "places": "Places",
+  "exploreTitle": "Explore Tangail",
+  "exploreSubtitle": "Every local service in one place",
+  "secHealth": "Health & Emergency",
+  "secServices": "Legal & Government",
+  "secTravel": "Travel & Places",
+  "secDaily": "Daily life",
+  "secCommunity": "Community",
+  "hospitals": "Hospitals",
+  "doctors": "Doctors",
+  "bloodDonors": "Blood Donors",
+  "govtOffices": "Govt Offices",
+  "lawyers": "Lawyers",
+  "transport": "Transport",
+  "business": "Business Directory",
+  "education": "Education",
+  "tourism": "Tourist Places",
+  "news": "News",
+  "jobs": "Jobs",
+  "bazarPrice": "Bazar Price",
+  "prayerTimes": "Prayer Times",
+  "community": "Community",
+  "events": "Events",
+  "beds": "{count} beds",
+  "@beds": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "emergencyAvailable": "Emergency 24/7",
+  "departments": "Departments",
+  "facilities": "Facilities",
+  "doctorsHere": "Doctors at this hospital",
+  "specialty": "Specialty",
+  "weeklySchedule": "Weekly schedule",
+  "consultFee": "Consultation fee",
+  "serialCall": "Call for serial",
+  "chamber": "Chamber",
+  "qualifications": "Qualifications",
+  "ac": "AC",
+  "nonAc": "Non-AC",
+  "icu": "ICU",
+  "bloodGroup": "Blood group",
+  "lastDonated": "Last donated {when}",
+  "@lastDonated": {
+    "placeholders": {
+      "when": {
+        "type": "String"
+      }
+    }
+  },
+  "registerDonor": "Register as donor",
+  "requestBlood": "Request blood",
+  "bagsNeeded": "Bags needed",
+  "hospitalName": "Hospital name",
+  "patientProblem": "Patient's condition",
+  "neededBy": "Needed by",
+  "urgent": "Urgent",
+  "donorRegistered": "You're registered as a donor. Thank you!",
+  "bloodRequestSent": "Request posted to nearby donors (demo)",
+  "availableToDonate": "Available to donate",
+  "practiceArea": "Practice area",
+  "court": "Court",
+  "chamberHours": "Chamber hours",
+  "bookConsultation": "Book consultation",
+  "consultationBooked": "Consultation requested for {when}",
+  "@consultationBooked": {
+    "placeholders": {
+      "when": {
+        "type": "String"
+      }
+    }
+  },
+  "busRoutes": "Bus",
+  "train": "Train",
+  "cngRent": "CNG & Rent-a-car",
+  "from": "From",
+  "to": "To",
+  "journeyDate": "Journey date",
+  "searchBuses": "Search buses",
+  "busesFound": "{count} buses found",
+  "@busesFound": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "counter": "Counter",
+  "seats": "{count} seats left",
+  "@seats": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "bookSeat": "Book seat",
+  "departure": "Departure",
+  "arrival": "Arrival",
+  "offDay": "Off day",
+  "trainName": "Train",
+  "perDay": "per day",
+  "addBusiness": "Add your business",
+  "stepBasic": "Basic info",
+  "stepContact": "Contact & location",
+  "stepHours": "Hours & photos",
+  "stepReview": "Review",
+  "businessName": "Business name",
+  "openingTime": "Opening time",
+  "closingTime": "Closing time",
+  "addPhotos": "Add photos",
+  "pendingApproval": "Pending approval",
+  "pendingApprovalBody": "Thanks! Our team will verify your business within 24–48 hours. You'll get a notification once it's live.",
+  "backToHome": "Back to home",
+  "writeReview": "Write a review",
+  "school": "School",
+  "college": "College",
+  "university": "University",
+  "coaching": "Coaching",
+  "examResults": "Exam results",
+  "students": "{count} students",
+  "@students": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "established": "Est. {year}",
+  "@established": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "howToGo": "How to go",
+  "entryFee": "Entry fee",
+  "openingHours": "Opening hours",
+  "latestJobs": "Latest jobs",
+  "salary": "Salary",
+  "deadline": "Deadline {date}",
+  "@deadline": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "applyNow": "Apply now",
+  "applicationSent": "Application sent to {company} (demo)",
+  "@applicationSent": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "coverNote": "Short cover note",
+  "attachCv": "Attach CV (PDF)",
+  "cvAttached": "my_cv.pdf attached",
+  "jobType": "Job type",
+  "fullTime": "Full-time",
+  "partTime": "Part-time",
+  "item": "Item",
+  "unit": "Unit",
+  "change": "Change",
+  "last7Days": "Last 7 days",
+  "sehri": "Sehri ends",
+  "iftar": "Iftar",
+  "fajr": "Fajr",
+  "dhuhr": "Dhuhr",
+  "asr": "Asr",
+  "maghrib": "Maghrib",
+  "isha": "Isha",
+  "sunrise": "Sunrise",
+  "noticeBoard": "Notice board",
+  "lostFound": "Lost & Found",
+  "eventsCalendar": "Events calendar",
+  "lost": "Lost",
+  "found": "Found",
+  "postItem": "Post an item",
+  "postPublished": "Your post is live (demo)",
+  "addPhoto": "Add photo",
+  "title": "Title",
+  "location": "Location",
+  "noEventsDay": "No events on this day",
+  "interested": "Interested",
+  "markedInterested": "We'll remind you before the event",
+  "shopSearchHint": "Search sarees, sweets, electronics…",
+  "catSaree": "Saree",
+  "catFood": "Food & Sweets",
+  "catFashion": "Fashion",
+  "catElectronics": "Electronics",
+  "catHome": "Home & Living",
+  "catAgri": "Agriculture",
+  "catCraft": "Handicrafts",
+  "catBooks": "Books",
+  "topSellers": "Top sellers",
+  "recommended": "Recommended for you",
+  "recentlyViewed": "Recently viewed",
+  "sold": "{count} sold",
+  "@sold": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "off": "-{value}%",
+  "@off": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "sortPopular": "Popular",
+  "sortNewest": "Newest",
+  "sortPriceLow": "Price: low to high",
+  "sortPriceHigh": "Price: high to low",
+  "priceRange": "Price range",
+  "minRating": "Minimum rating",
+  "deliveryType": "Delivery type",
+  "homeDelivery": "Home delivery",
+  "localPickup": "Local pickup",
+  "inStockOnly": "In stock only",
+  "showResults": "Show {count} results",
+  "@showResults": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "itemsCount": "{count} items",
+  "@itemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "addToCart": "Add to cart",
+  "buyNow": "Buy now",
+  "addedToCart": "Added to cart",
+  "viewCart": "View",
+  "size": "Size",
+  "color": "Color",
+  "quantity": "Quantity",
+  "inStock": "In stock ({count} left)",
+  "@inStock": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "lowStock": "Only {count} left!",
+  "@lowStock": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "outOfStock": "Out of stock",
+  "deliverTo": "Deliver to {place}",
+  "@deliverTo": {
+    "placeholders": {
+      "place": {
+        "type": "String"
+      }
+    }
+  },
+  "deliveryFee": "Delivery fee",
+  "estDelivery": "Est. {days} days",
+  "@estDelivery": {
+    "placeholders": {
+      "days": {
+        "type": "String"
+      }
+    }
+  },
+  "pickupAvailable": "Local pickup available — free",
+  "visitStore": "Visit store",
+  "chat": "Chat",
+  "followers": "{count} followers",
+  "@followers": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "follow": "Follow",
+  "following": "Following",
+  "specifications": "Specifications",
+  "ratingsReviews": "Ratings & reviews",
+  "photoReviews": "Photo reviews",
+  "questions": "Questions & answers",
+  "askQuestion": "Ask a question",
+  "questionPosted": "Question sent to seller (demo)",
+  "similarProducts": "Similar products",
+  "storeProducts": "Products",
+  "storeInfo": "Store info",
+  "joined": "Joined {date}",
+  "@joined": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "responseRate": "Response rate",
+  "shipOnTime": "Ships on time",
+  "typeMessage": "Type a message…",
+  "online": "Online",
+  "myCart": "My cart",
+  "selectAll": "Select all",
+  "emptyCart": "Your cart is empty",
+  "emptyCartHint": "Browse Made in Tangail products and add your favourites.",
+  "startShopping": "Start shopping",
+  "voucherCode": "Voucher code",
+  "voucherHint": "Try TANGAIL50",
+  "voucherApplied": "Voucher applied: ৳50 off",
+  "voucherInvalid": "Invalid voucher code",
+  "subtotal": "Subtotal",
+  "discount": "Discount",
+  "voucher": "Voucher",
+  "total": "Total",
+  "checkoutCount": "Checkout ({count})",
+  "@checkoutCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "itemRemoved": "Item removed",
+  "undo": "Undo",
+  "stepAddress": "Address",
+  "stepDelivery": "Delivery",
+  "stepPayment": "Payment",
+  "addNewAddress": "Add new address",
+  "cod": "Cash on Delivery",
+  "card": "Credit / Debit card",
+  "placeOrder": "Place order",
+  "orderSummary": "Order summary",
+  "orderPlaced": "Order placed!",
+  "orderPlacedBody": "Thank you for shopping local. You'll get updates as your order moves.",
+  "orderId": "Order ID",
+  "trackOrder": "Track order",
+  "continueShopping": "Continue shopping",
+  "myOrders": "My orders",
+  "toPay": "To Pay",
+  "toShip": "To Ship",
+  "toReceive": "To Receive",
+  "completed": "Completed",
+  "returns": "Returns",
+  "orderDetail": "Order details",
+  "cancelOrder": "Cancel order",
+  "cancelReason": "Why are you cancelling?",
+  "orderCancelled": "Order cancelled",
+  "returnRequest": "Return request",
+  "returnSubmitted": "Return request submitted",
+  "reviewSubmitted": "Thanks for your review!",
+  "payNow": "Pay now",
+  "confirmReceived": "Confirm received",
+  "vouchersWallet": "Vouchers & coins",
+  "coins": "Coins",
+  "coinsBalance": "Coin balance",
+  "myVouchers": "My vouchers",
+  "collect": "Collect",
+  "collected": "Collected",
+  "useNow": "Use now",
+  "dailyCheckIn": "Daily check-in",
+  "checkedIn": "+10 coins collected!",
+  "minSpend": "Min. spend ৳{amount}",
+  "@minSpend": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "validTill": "Valid till {date}",
+  "@validTill": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "wishlist": "Wishlist",
+  "outOf5": "out of 5",
+  "becomeSeller": "Become a seller",
+  "sellerCenter": "Seller center",
+  "sellerOnbTitle": "Open your shop",
+  "storeInfoStep": "Store info",
+  "nidStep": "NID verification",
+  "payoutStep": "Payment account",
+  "storeName": "Store name",
+  "storeDescription": "About your store",
+  "nidFront": "NID front side",
+  "nidBack": "NID back side",
+  "tapToUpload": "Tap to upload",
+  "uploaded": "Uploaded",
+  "accountNumber": "Account number",
+  "accountType": "Account type",
+  "sellerReady": "Your shop is ready!",
+  "dashboard": "Dashboard",
+  "todaySales": "Today's sales",
+  "orders": "Orders",
+  "salesThisWeek": "Sales this week",
+  "recentOrders": "Recent orders",
+  "myProducts": "My products",
+  "addProduct": "Add product",
+  "editProduct": "Edit product",
+  "productName": "Product name",
+  "variants": "Variants",
+  "addVariant": "Add variant",
+  "discountPrice": "Discount price",
+  "stock": "Stock",
+  "deliveryOptions": "Delivery options",
+  "preview": "Preview",
+  "publish": "Publish",
+  "published": "Published",
+  "draft": "Draft",
+  "productSaved": "Product saved",
+  "productDeleted": "Product deleted",
+  "deleteProductQ": "Delete this product?",
+  "photosCount": "Photos ({count}/6)",
+  "@photosCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "manageOrders": "Manage orders",
+  "changeStatus": "Change status",
+  "statusUpdated": "Status updated to {status}",
+  "@statusUpdated": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "pending": "Pending",
+  "processing": "Processing",
+  "shipped": "Shipped",
+  "delivered": "Delivered",
+  "cancelled": "Cancelled",
+  "storeSettings": "Store settings",
+  "payouts": "Payouts",
+  "availableBalance": "Available balance",
+  "withdraw": "Withdraw",
+  "withdrawRequested": "Withdrawal requested (demo)",
+  "payoutHistory": "Payout history",
+  "vacationMode": "Vacation mode",
+  "autoReply": "Chat auto-reply",
+  "savedTitle": "Saved",
+  "emptySaved": "Nothing saved yet",
+  "emptySavedHint": "Tap the heart or bookmark icon to save items here.",
+  "businesses": "Businesses",
+  "editProfile": "Edit profile",
+  "myListings": "My listings",
+  "donorProfile": "Blood donor profile",
+  "addresses": "Addresses",
+  "settings": "Settings",
+  "language": "Language",
+  "theme": "Theme",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "themeSystem": "System",
+  "reportWrongInfo": "Report wrong info",
+  "helpSupport": "Help & support",
+  "aboutApp": "About",
+  "logout": "Logout",
+  "logoutConfirm": "Are you sure you want to log out?",
+  "groupShopping": "Shopping",
+  "groupCommunity": "Community",
+  "groupPreferences": "Preferences",
+  "groupSupport": "Support",
+  "offlineDemo": "Simulate offline",
+  "offlineDemoHint": "Shows the offline banner (UI demo)",
+  "pushNotifications": "Push notifications",
+  "orderUpdates": "Order updates",
+  "offersPromos": "Offers & promotions",
+  "emergencyAlerts": "Emergency alerts",
+  "bloodRequests": "Blood requests near me",
+  "reportSent": "Report sent. Thank you for keeping info accurate!",
+  "whatsWrong": "What's wrong?",
+  "whichListing": "Which listing?",
+  "details": "Details",
+  "faq": "Frequently asked questions",
+  "contactUs": "Contact us",
+  "liveChat": "Live chat",
+  "version": "Version {value}",
+  "@version": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "aboutBody": "Tangail All in One is a local super app concept for Tangail district — bringing emergency services, local businesses, transport and a community marketplace together. This build is a UI demo with sample data.",
+  "defaultAddress": "Default",
+  "setDefault": "Set as default",
+  "addressSaved": "Address saved",
+  "addressLine": "House, road, area",
+  "label": "Label",
+  "donorVisible": "Show me in donor search",
+  "donations": "{count} donations",
+  "@donations": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "nextEligible": "Next eligible: {date}",
+  "@nextEligible": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "memberSince": "Member since {year}",
+  "@memberSince": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "cart": "Cart",
+  "checkout": "Checkout",
+  "nidNumber": "NID number",
+  "settingsSaved": "Settings saved",
+  "amount": "Amount",
+  "govt": "Government",
+  "privateLabel": "Private",
+  "cases": "Cases",
+  "describeMatter": "Briefly describe your matter",
+  "popularRoutes": "Popular routes",
+  "seatCount": "Seats",
+  "scheduleNote": "Tangail Railway Station · times may change (demo)",
+  "satThu": "Sat – Thu",
+  "friday": "Friday",
+  "bazarSource": "Tangail Park Bazar (demo)",
+  "prayerSource": "Approximate times per Islamic Foundation (demo)",
+  "deadlineLabel": "Deadline",
+  "lastDonationDate": "Last donation date",
+  "experience": "Experience",
+  "replayOnboarding": "Replay onboarding",
+  "donationHistory": "Donation history",
+  "terms": "Terms of service",
+  "privacy": "Privacy policy",
+  "licences": "Open-source licences",
+  "email": "Email",
+  "madeWithLove": "Made with ♥ for Tangail"
+}
